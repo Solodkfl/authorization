@@ -1,10 +1,10 @@
 ## authorization
-authorization
+
 ## 설명
-Spring Boot 기반의 authorization 프로젝트입니다.
+Spring cloud 기반의 authorization 프로젝트입니다.
 
 ## 기능
-- Oaoth2
+- OAuth2
 
 개발환경
 - Java21
